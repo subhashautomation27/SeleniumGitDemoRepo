@@ -13,7 +13,7 @@ import org.openqa.selenium.interactions.Actions;
 public class ActionClassDemo {
 
 	public static void main(String[] args) {
-		
+		//DemoFor Action class
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();//
 		driver.get("https://omayo.blogspot.com/");
